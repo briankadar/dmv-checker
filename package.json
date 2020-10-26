@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "twilio": "^3.50.0"
+  }
+}
